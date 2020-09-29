@@ -1,2 +1,2 @@
 # Movie-Recommender
-An Artificial Intelligence which recommends movies based on movies you've liked previously.
+A machine learning application to recommend movies based on movies you've liked previously.
